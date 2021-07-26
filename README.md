@@ -7,7 +7,7 @@
        layout="vertical">
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-map center="Q334">
+<param ve-map center="Q334" zoom="8">
 
 The Orchidaceae /ɔːrkɪˈdeɪʃiː/ are a diverse and widespread family of flowering plants, with blooms that are often colourful and fragrant, commonly known as the orchid family.
 
