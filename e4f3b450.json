@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "What flower is this?",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://alchetron.com/cdn/orchidelirium-5e3f36da-0e38-4bd7-a7bc-c1275ffa2c5-resize-750.jpeg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:64.90071105957031,235.6255340576172,165.185546875,222.26560974121094"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9e2821cb-946d-4c33-837b-60cfed6b2d01"
+  }
+]
